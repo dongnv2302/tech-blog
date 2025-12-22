@@ -1,0 +1,30 @@
+baseURL = "http://localhost:1313/"
+languageCode = "ja-jp"
+title = "Trading Systems Engineering"
+theme = "PaperMod"
+
+[params]
+  author = "Dong Nguyen"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  mainSections = "blog"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[params.homeInfoParams]
+  Title = "Trading Systems Engineering"
+  Content = "暗号資産自動売買システムの設計・運用に関する技術メモ"
