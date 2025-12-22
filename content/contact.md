@@ -2,8 +2,11 @@
 title: "Contact"
 ---
 
-技術的なご相談・検証・開発依頼については  
-以下よりご連絡ください。
+自動売買システムに関する  
+技術的なご相談・設計レビュー・検証・開発のご相談については、  
+以下の連絡先よりご連絡ください。
 
-- Email: your-email@example.com
-- GitHub: https://github.com/yourname
+※ 投資助言、運用代行、利益保証を目的としたご依頼には対応しておりません。
+
+- Email: dong.trading.bot@gmail.com
+- X (Twitter): https://x.com/dong_cryptobot
