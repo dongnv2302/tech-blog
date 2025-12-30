@@ -5,8 +5,7 @@ title = "Trading Systems Engineering"
 theme = "PaperMod"
 googleAnalytics = "G-831GFCR7YR"
 
-[pagination]
-  pagerSize = 5
+pagerSize = 5
 # =========================
 # Markup (TOC)
 # =========================
