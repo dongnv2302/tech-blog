@@ -10,6 +10,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify --baseURL "https://dongnv2302.github.io/tech-blog/"
+        run: hugo --gc --cleanDestinationDir --minify --baseURL "https://dongnv2302.github.io/tech-blog/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -35,6 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy
+        id: deployment
         uses: actions/deploy-pages@v4
