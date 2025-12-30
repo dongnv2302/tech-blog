@@ -46,6 +46,9 @@ googleAnalytics = "G-831GFCR7YR"
   # SEO / Meta
   description = "暗号資産自動売買システムの設計・実装・長期運用に関する技術ブログ"
 
+  # Blog section
+  mainSections = ["blog"]
+
 # =========================
 # Home Page (Hero section)
 # PaperMod chỉ đọc từ params.homeInfoParams
