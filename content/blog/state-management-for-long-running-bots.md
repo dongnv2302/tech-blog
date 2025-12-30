@@ -1,6 +1,6 @@
 ---
 title: "長期運用BotにおけるState管理設計"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "StateManagement", "Operation"]
 toc: true
 ---

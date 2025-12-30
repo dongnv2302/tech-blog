@@ -1,6 +1,6 @@
 ---
 title: "なぜ注文を出さない実運用モードが必要なのか"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "RiskManagement", "Operation"]
 toc: true
 ---

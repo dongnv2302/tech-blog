@@ -1,6 +1,6 @@
 ---
 title: "Binance FuturesにおけるNotional管理の落とし穴"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["Binance", "Futures", "Notional", "RiskManagement", "TradingBot"]
 toc: true
 ---

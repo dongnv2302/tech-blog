@@ -1,6 +1,6 @@
 ---
 title: "WebSocketは信用してはいけない"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "WebSocket", "Operation", "Reliability"]
 toc: true
 ---

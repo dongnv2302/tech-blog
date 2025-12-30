@@ -1,6 +1,6 @@
 ---
 title: "ログはデバッグのためではない"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "Logging", "Operation", "Reliability"]
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Break-Evenはなぜ簡単ではないのか"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "RiskManagement", "BreakEven", "Operation"]
 toc: true
 ---

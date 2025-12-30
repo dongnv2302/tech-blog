@@ -1,6 +1,6 @@
 ---
 title: "なぜ売買ロジック中心の設計は壊れるのか"
-date: 2025-12-30
+date: 2025-12-29
 tags: ["SystemDesign", "TradingBot", "Architecture", "AntiPattern"]
 toc: true
 ---
